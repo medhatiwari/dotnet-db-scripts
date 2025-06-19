@@ -6,7 +6,7 @@ CLONE_DIR="/home/medha/db/sqlite/efcore"
 LOG_DIR="/home/medha/db/sqlite/logs"
 APP_DIR="/home/medha/db/sqlite/SQLite_Test_App"
 EMAIL="medhatiwari@ibm.com,Giridhar.Trivedi@ibm.com,Sanjam.Panda@ibm.com"
-DOTNET_ROOT="/home/medha/packages/net8"
+DOTNET_ROOT="/home/medha/packages/net9"
 
 # Timestamp for log file
 TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
